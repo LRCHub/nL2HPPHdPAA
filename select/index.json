@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ザ・ネクスト・エピソード",
+  "base_artist": "Dr. Dre",
+  "createdAt": "2026-02-24T18:00:31.312260Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Next Episode",
+      "artist": "Dr. Dre, Snoop Dogg",
+      "has_synced": false,
+      "path": "select/pl_01_The_Next_Episode_Dr._Dre,_Snoop_Dogg.txt"
+    }
+  ]
+}
